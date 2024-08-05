@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-image: url('music.avif');
+    background-size: 100%;
+
+}
+
+.course-card {
+    display: flex;
+    margin: 50px;
+    justify-content: space-around;
+
+}
+
+.heading {
+    background-color: rgb(247, 241, 243);
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 50px;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 30px;
+
+
+}
+
+.image1 {
+    border: solid rgb(191, 195, 196) 5px;
+    border-radius: 20px;
+    width: 300px;
+    margin: 5px;
+    /* justify-content: center; */
+    text-align: center;
+    color: rgba(245, 245, 220, 0.889);
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: black;
+    height: 400px;
+    
+
+.image_inner1 p {
+
+
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.image_inner1 {
+    border: solid rgba(246, 139, 7, 0.442) 5px;
+    width: 250px;
+    justify-content: center;
+    margin-left: 10px;
+    border-radius: 50px;
+    text-align: left;
+    padding: 5px;
+    height: 300px;
+}
+.image_inner1 button{
+    text-align: center;
+    margin-left:75px;
+    font-size: 16px;
+    padding: 10px;
+    border: solid  black 2px;
+    border-radius: 20px;
+
+
+}
